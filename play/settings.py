@@ -37,7 +37,7 @@ INSTALLED_APPS = [
     'django.contrib.sessions',
     'django.contrib.messages',
     'django.contrib.staticfiles',
-    'we.apps.WbConfig'
+    'wb.apps.WbConfig'
 ]
 
 MIDDLEWARE_CLASSES = [
