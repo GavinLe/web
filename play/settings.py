@@ -37,7 +37,8 @@ INSTALLED_APPS = [
     'django.contrib.sessions',
     'django.contrib.messages',
     'django.contrib.staticfiles',
-    'wb.apps.WbConfig'
+    'wb.apps.WbConfig',
+    'gunicorn',
 ]
 
 MIDDLEWARE_CLASSES = [
